@@ -1,0 +1,6 @@
+homepage:https://it.wikipedia.org/wiki/Robin_Hood_(film_1973)
+overview:With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.
+poster_path:http://image.tmdb.org/t/p/w342/78yFcKivWbLwlPcUOPj2A75k4Ii.jpg
+release_date:1973-11-08
+title:Robin Hood
+id:3
